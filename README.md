@@ -1,4 +1,4 @@
-## Oss!🥋 eu sou  Willams Antônio
+## Oss!🥋 eu sou o Willams Antônio
 #### 🌐cursando Análise e Desenvolvimento de Sistemas
 #### 💻Atualmente focado no Python para construção de sistemas web
 #### ⚓Aprovado no CORPO DE FUZILEIROS NAVAIS em 4 meses
@@ -8,14 +8,16 @@
 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/willams_antoni0/)
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Ecoshorts-f6z/playlists)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willamss547@gmail.com)
+
 
 
 
 ![WillamsAntoni0 GitHub stats](https://github-readme-stats.vercel.app/api?username=WillamsANtoni0&show_icons=true&theme=transparent)
 
 
-## Tecnologias usadas atualmente
+## Uso atual
 
 <div style="display: inline_block">  
 <img align="center" alt="html5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -26,9 +28,6 @@
 </div>
 
 ## ÚLTIMOS VÍDEOS:
-<br>
-Criação de vídeos com IA
-<br>
 https://youtu.be/jku-Mlibl84?si=1A6oj17QHqhBD_0g
 
 https://youtu.be/RDems9qdD7E?si=2whv52qlzQnQaDMx
