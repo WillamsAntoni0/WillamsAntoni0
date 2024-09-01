@@ -1,4 +1,4 @@
-## Olá! eu sou  Willams Antônio
+## Olá! eu sou  Willams Antônio - 👨‍💻
 #### 🌐cursando Análise e Desenvolvimento de Sistemas
 #### 💻Atualmente focado no Python para construção de sistemas web
 #### ⚓Aprovado no CORPO DE FUZILEIROS NAVAIS em 4 meses
