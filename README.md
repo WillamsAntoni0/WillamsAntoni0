@@ -28,6 +28,7 @@
 ## ÚLTIMOS VÍDEOS:
 <br>
 Criação de vídeos com IA
+<br>
 https://youtu.be/jku-Mlibl84?si=1A6oj17QHqhBD_0g
 
 https://youtu.be/RDems9qdD7E?si=2whv52qlzQnQaDMx
