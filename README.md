@@ -8,9 +8,9 @@
 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/willams_antoni0/)
-
-
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](willamss547@gmail.com)
+
 
 ![WillamsAntoni0 GitHub stats](https://github-readme-stats.vercel.app/api?username=WillamsANtoni0&show_icons=true&theme=transparent)
 
@@ -26,8 +26,6 @@
 </div>
 
 ## ÚLTIMOS VÍDEOS:
-criação de vídeos com IA
-<br>
 https://youtu.be/jku-Mlibl84?si=1A6oj17QHqhBD_0g
 
 https://youtu.be/RDems9qdD7E?si=2whv52qlzQnQaDMx
