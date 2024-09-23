@@ -1,8 +1,9 @@
 ## Olá! eu sou  Willams Antônio - 👨‍💻
 #### •🌐cursando Análise e Desenvolvimento de Sistemas
 #### •⚓Aprovado no CORPO DE FUZILEIROS NAVAIS em 4 meses
+#### • Trabalhando e explorando atualmente com C
 #### •🥊Muay Thai ムエボラン
-#### •🥋jiujitsuka
+
 
 
 ## Contatos
