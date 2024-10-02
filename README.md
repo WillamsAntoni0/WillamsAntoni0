@@ -17,7 +17,7 @@
 ![WillamsAntoni0 GitHub stats](https://github-readme-stats.vercel.app/api?username=WillamsAntoni0&show_icons=true&theme=transparent)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillamsAntoni0&layout=compacttheme=green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillamsAntoni0&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
