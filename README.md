@@ -34,4 +34,4 @@
 
 •https://youtu.be/RDems9qdD7E?si=2whv52qlzQnQaDMx
 
-## Empenhado em Tecnologia e Artes Marciais
+
