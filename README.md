@@ -20,7 +20,6 @@
 </div>
 
 ###
-
 ## Uso atual
 <div style="display: inline_block">  
 <img align="center" alt="python"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
