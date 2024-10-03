@@ -11,11 +11,17 @@
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+5581993575384)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willamss547@gmail.com)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=WillamsAntoni0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WillamsAntoni0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-###
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=WillamsAntoni0&show_icons=true&theme=merko"
+    media="(prefers-color-scheme: merko)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=WillamsAntoni0&show_icons=true"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=WillamsAntoni0&show_icons=true" />
+</picture>
 
 ## Uso atual
 <div style="display: inline_block">  
