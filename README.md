@@ -1,7 +1,7 @@
 ## Olá! eu sou  Willams Antônio - 👨‍💻
 #### •🌐cursando Análise e Desenvolvimento de Sistemas
+#### • Angular and Python Full stack Developer
 #### •⚓Aprovado no CORPO DE FUZILEIROS NAVAIS em 4 meses
-#### • Foco no Python e Angular para des. Web
 #### •🥊Muay Thai ムエボラン
 
 
