@@ -1,6 +1,6 @@
 ## Olá! eu sou  Willams Antônio - 👨‍💻
-#### •🌐cursando Análise e Desenvolvimento de Sistemas
-#### •⚓Aprovado no CORPO DE FUZILEIROS NAVAIS em 4 meses
+#### •🌐Graduando em Análise e Desenvolvimento de Sistemas
+#### •Android Developer
 #### •🥊Muay Thai ムエボラン
 
 
