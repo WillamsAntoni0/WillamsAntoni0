@@ -30,9 +30,7 @@
 </div>
 ###
 
-<img src="https://raw.githubusercontent.com/WillamsAntoni0/WillamsAntoni0/output/snake.svg" alt="Snake animation" />
 
-###
 
 ## ÚLTIMOS VÍDEOS:
 #### Criação de vídeos com IA
