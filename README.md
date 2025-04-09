@@ -36,9 +36,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
 </div>
-
-#### Desenvolvimento mobile é minha área favorita atualmente
-
 <img src="https://raw.githubusercontent.com/WillamsAntoni0/WillamsAntoni0/output/snake.svg" alt="Snake animation" />
 
 
