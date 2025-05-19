@@ -1,6 +1,6 @@
 ## Olá! eu sou  Willams Antônio - 👨‍💻
 #### •🌐Graduando em Análise e Desenvolvimento de Sistemas
-#### •Android Developer - Foco no Kotlin para desenvolvimento Android
+#### •Software Developer Java and Javascript
 #### •🥊Muay Thai ムエボラン
 
 
