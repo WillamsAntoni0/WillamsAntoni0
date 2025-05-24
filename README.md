@@ -1,6 +1,6 @@
 ## Olá! eu sou  Willams Antônio - 👨‍💻
 #### •🌐Graduando em Análise e Desenvolvimento de Sistemas
-#### •Software Developer Java and Javascript
+#### •Software Developer 
 #### •🥊Muay Thai ムエボラン
 
 
